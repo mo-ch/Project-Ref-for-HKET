@@ -1,8 +1,9 @@
 # Project-Ref-for-HKET
-Project reference.
-Project Name: Video to Vector.
-Function: To able to calculate the similarity between two videos.
-Skill Used: Python.
+
+Project reference
+Project Name: Video to Vector
+Function: To able to calculate the similarity between two videos
+Skill Used: Python
 
 There are two parts in this small project. As described in the function, This project is to calculate the similarity between two videos by extracting features of images from the videos and using embedding function to generate a video vector that can represent those features of the images and compare to other video vectors.
 
